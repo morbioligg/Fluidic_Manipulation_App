@@ -1,7 +1,9 @@
 Fluidic Manipulation Application
 
 This computer application is part of the publication by Giorgio Gianini Morbioli, Nicholas Speller, Michael Cato and Amanda Stockton, named: 
-An Automated Low-Cost Modular Hardware and Software Platform for Versatile Programmable Microfluidic Device Testing and Development
+An Automated Low-Cost Modular Hardware and Software Platform for Versatile Programmable Microfluidic Device Testing and Development, available at:
+https://www.sciencedirect.com/science/article/pii/S0925400521011060
+
 
 ## Installation
 
